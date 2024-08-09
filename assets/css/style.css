@@ -1,26 +1,15 @@
-/**
-* Template Name: KnightOne
-* Updated: Jul 27 2023 with Bootstrap v5.3.1
-* Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
 
 a {
-  color: #009961;
+  color: #444444;
   text-decoration: none;
 }
 
 a:hover {
-  color: #00cc81;
+  color: #461E51;
   text-decoration: none;
 }
 
@@ -589,7 +578,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background:#6b0f0f;
+  background: #6b0f0f;
   bottom: 0;
   left: 0;
 }
@@ -709,7 +698,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #009961;
+  color: #461E51;
 }
 
 /*--------------------------------------------------------------
@@ -904,7 +893,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background:#6b0f0f ;
+  background: #6b0f0f;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -931,7 +920,7 @@ section {
   z-index: 3;
   transition: all ease-in-out 0.3s;
   background: #6b0f0f;
-  padding: 15px 20px;
+  padding: 20px 20px;
 }
 
 .portfolio .portfolio-item .portfolio-info h4 {
@@ -949,7 +938,7 @@ section {
 .portfolio .portfolio-item .portfolio-info .preview-link,
 .portfolio .portfolio-item .portfolio-info .details-link {
   position: absolute;
-  right: 50px;
+  right: 10px;
   font-size: 24px;
   top: calc(50% - 18px);
   color: white;
